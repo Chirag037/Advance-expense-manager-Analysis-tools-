@@ -1,6 +1,6 @@
 # 💰 Advance Expense Manager & Analysis Tools
 
-> A powerful desktop-based personal finance management tool built with Python and Tkinter. Track your income and expenses, visualize trends, manage budgets, and export or import data with ease — all in a stylish and user-friendly interface.
+A powerful desktop-based personal finance management tool built with Python and Tkinter. Track your income and expenses, visualize trends, manage budgets, and export or import data with ease — all in a stylish and user-friendly interface.
 
 ---
 
