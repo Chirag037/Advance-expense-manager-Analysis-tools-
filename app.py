@@ -1,4 +1,13 @@
-
+import tkinter as tk
+from tkinter import ttk, messagebox, filedialog
+import sqlite3
+import json
+import csv
+from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+import numpy as np
+from typing import List, Dict, Tuple
 
 class FinanceTracker:
     def __init__(self):
